@@ -1,8 +1,8 @@
 class Bluenine < Formula
     desc "AWS Session Token Manager"
     homepage "https://github.com/amongil/bluenine"
-    url "https://github.com/amongil/bluenine/releases/download/v0.1.0/bluenine-v0.1.0.tar.gz"
-    sha256 "6a9b4f92ae1cb5d520337f39ac416fbca9d9485d260a5657038a6f2e2592fdb7"
+    url "https://github.com/amongil/bluenine/releases/download/v0.1.1/bluenine-v0.1.1.tar.gz"
+    sha256 "39691f868d98d5ac44f37dc68693d66e032870ca868d3fcaa0aa766bea346d74"
   
     bottle :unneeded
   
